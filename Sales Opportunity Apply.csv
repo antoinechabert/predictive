@@ -1,0 +1,455 @@
+﻿Customer ID,Customer Name,Customer_Segment,Sector,Country,Customer_Status,Annual_Speed,Length_Of_Sales_Cycle,Product_Name,Highest_Contract_Level,Compelling_Event,RFP,Sales_Engineer_Engaged,Services_Included,Customer_Meeting,License,Contacts,Opportunity_Value
+4493,Steve Martin,Enterprise,Apparel,France,current customer,Huge,6 Months,Identity Server,Manager Level,Yes,Yes,Yes,Yes,5,55,145,36000
+4494,Omega Soft-Hardware Markt,Fortune500,Goods,Russia,current customer,Small,1 Year,Security,C-Level,No,Yes,Yes,Yes,34,473,155,155000
+4495,Minerva Energieversorgung GmbH,SMB,Healthcare,Japan,current customer,Medium,18 Months,Security,Manager Level,Yes,No,No,Yes,4,130,93,31000
+4496,General Distributors Inc,SMB,Apparel,Brazil,current customer,Large,6 Months,CRM,Manager Level,Yes,Yes,Yes,Yes,31,122,52,27000
+4497,Mansur Computers. Inc.,Enterprise,Healthcare,Germany,current customer,Medium,6 Months,Application Server,C-Level,Yes,Yes,No,No,18,63,23,41000
+4498,Alpha-Systems GmbH,Enterprise,Retail,Brazil,current customer,Huge,1 Year,ERP,C-Level,No,No,Yes,Yes,28,216,119,155000
+4499,Thomas Bush Inc.,Fortune500,Retail,China,current customer,Huge,1 Year,Portal,C-Level,No,No,Yes,No,38,446,38,182000
+4500,Department of Defense,SMB,Construction,Japan,prospect,Large,6 Months,Portal,Individual Contributor Level,Yes,No,Yes,No,17,32,136,38000
+4501,Tornado Motorsport,Enterprise,Manufacturing,UK,prior customer,Big,6 Months,Web Server,C-Level,Yes,No,No,Yes,19,134,153,48000
+4502,Thomas World Distribution,SMB,Goods,China,prospect,Huge,6 Months,Identity Server,C-Level,No,Yes,No,Yes,28,155,42,39000
+4503,Andrew Sands,Enterprise,Goods,Germany,prior customer,Medium,2 Years,ERP,Manager Level,Yes,No,Yes,Yes,8,179,153,48000
+4504,BZ Wines Inc.,SMB,High tech,China,current customer,Large,1 Month,Application Server,Individual Contributor Level,Yes,Yes,No,Yes,3,144,32,39000
+115,Einmalkunde,SMB,High tech,Japan,prior customer,Small,1 Month,ERP,Individual Contributor Level,Yes,No,Yes,No,25,53,14,45000
+4505,Dynamic Industries,Enterprise,Manufacturing,Russia,prior customer,Small,1 Year,Identity Server,C-Level,No,No,Yes,Yes,11,190,94,75000
+4506,Century Software.Com,Enterprise,Construction,France,current customer,Big,1 Year,Portal,C-Level,No,No,Yes,No,18,226,105,45000
+4507,Heiner Schmidtmann,Fortune500,Finserv,India,prospect,Medium,2 Years,Application Server,Manager Level,No,No,No,Yes,29,274,68,36000
+4508,Brazil Technologies,SMB,Apparel,Italy,prospect,Huge,18 Months,Security,Manager Level,Yes,Yes,No,No,18,127,20,24000
+4509,LORI WINTER,Fortune500,Manufacturing,Germany,current customer,Medium,1 Month,Portal,C-Level,Yes,Yes,No,Yes,12,209,92,41000
+4510,JAMES FERENCY,SMB,Retail,Russia,prospect,Large,2 Years,Identity Server,Manager Level,No,No,Yes,Yes,5,37,34,23000
+4511,Peter Hoffman,Fortune500,Healthcare,Japan,prior customer,Medium,6 Months,Web Server,C-Level,Yes,No,No,Yes,22,114,84,51000
+4512,New Charles Scott,Enterprise,Manufacturing,France,prospect,Huge,1 Year,ERP,Manager Level,No,Yes,Yes,Yes,10,142,118,62000
+4513,New David Lynch,Fortune500,High tech,Russia,prior customer,Big,2 Years,Identity Server,C-Level,No,Yes,No,Yes,5,235,58,48000
+4514,New CBD Computer Based Design,SMB,Goods,India,current customer,Medium,2 Years,ERP,Individual Contributor Level,Yes,Yes,No,Yes,4,95,34,31000
+4515,New Technik und Systeme GmbH,Enterprise,Healthcare,France,prior customer,Large,6 Months,Portal,C-Level,Yes,No,Yes,Yes,27,278,147,43000
+4516,New CompSmart Inc.,Enterprise,Goods,Germany,current customer,Big,1 Year,Analytics,C-Level,Yes,No,Yes,No,34,355,90,166000
+4517,New N.I.C. High Tech,Enterprise,Healthcare,North America,prospect,Huge,6 Months,Analytics,C-Level,Yes,No,Yes,No,13,270,41,62000
+4518,New Adecom SA,SMB,Retail,Brazil,prospect,Big,6 Months,Analytics,Individual Contributor Level,Yes,Yes,Yes,No,16,77,81,49000
+4519,New C-Tech Corp,Enterprise,Finserv,UK,prior customer,Huge,1 Year,Identity Server,C-Level,No,No,No,Yes,24,79,53,53000
+4520,New ADCOM COMPUTER,SMB,Manufacturing,Russia,prior customer,Huge,18 Months,Application Server,Individual Contributor Level,No,Yes,No,Yes,30,101,115,15000
+4521,New CCS Industrial,SMB,Healthcare,Germany,prior customer,Huge,6 Months,ERP,C-Level,No,No,No,No,28,268,124,74000
+4522,New RIWA Regional Storage Trenton,Enterprise,Finserv,Italy,prior customer,Large,2 Years,Portal,C-Level,No,No,Yes,No,19,206,63,62000
+4523,New PR Electronics France,Enterprise,Apparel,China,prior customer,Large,1 Month,Database,C-Level,Yes,Yes,Yes,No,18,76,135,42000
+4524,New Mamoun Darkazanli,Enterprise,Construction,Japan,prior customer,Small,1 Month,Portal,C-Level,Yes,No,No,No,17,101,125,44000
+4525,New Carmella Credit,Enterprise,High tech,Japan,prospect,Big,1 Year,Database,C-Level,Yes,Yes,Yes,No,29,163,49,71000
+4526,New Builders Depot,Enterprise,Manufacturing,Italy,prior customer,Big,1 Year,CRM,C-Level,Yes,No,Yes,Yes,27,138,39,58000
+4527,New Matrax,Fortune500,Finserv,UK,current customer,Huge,1 Year,Portal,C-Level,No,Yes,Yes,Yes,17,491,27,140000
+4528,New xNET,Enterprise,Retail,Japan,prior customer,Small,1 Year,Web Server,Individual Contributor Level,No,Yes,Yes,No,5,288,12,64000
+4529,New Rawlings Group,Enterprise,Goods,UK,prior customer,Huge,1 Month,Application Server,Manager Level,No,Yes,No,Yes,12,259,148,36000
+4530,New P. Baker,Enterprise,Consumer Product,France,prior customer,Large,6 Months,Analytics,C-Level,No,Yes,Yes,No,18,75,149,42000
+4531,New BEN GUIER,Enterprise,Finserv,China,current customer,Huge,1 Month,Portal,Individual Contributor Level,No,No,Yes,No,17,61,14,26000
+4532,ABC John Evans,SMB,Healthcare,Brazil,prospect,Medium,1 Month,Application Server,Individual Contributor Level,No,Yes,Yes,Yes,14,130,146,19000
+4533,ABC Edward Burns,Enterprise,Healthcare,India,prospect,Big,1 Year,Portal,C-Level,No,No,No,Yes,10,88,29,64000
+4534,ABC Karsson High Tech Markt,Fortune500,Goods,India,current customer,Medium,1 Year,Application Server,C-Level,No,No,Yes,No,35,348,92,133000
+4535,ABC Becker Koeln,Enterprise,Healthcare,North America,current customer,Small,1 Year,CRM,Manager Level,No,Yes,Yes,No,16,200,80,48000
+4536,ABC C.A.S. Computer Application Systems,Fortune500,Manufacturing,France,prospect,Large,6 Months,Identity Server,Individual Contributor Level,No,Yes,No,No,15,122,18,30000
+4537,ABC SudaTech GmbH,Enterprise,Consumer Product,India,prior customer,Large,1 Year,Identity Server,C-Level,Yes,Yes,Yes,No,9,151,38,55000
+4538,ABC HTG Komponente GmbH,SMB,High tech,Russia,current customer,Small,1 Year,CRM,Individual Contributor Level,No,Yes,Yes,Yes,29,89,50,13000
+4539,ABC Davis Integration System,Enterprise,Healthcare,Brazil,prospect,Large,2 Years,Portal,Manager Level,No,No,Yes,Yes,17,110,31,24000
+4540,ABC La Quinta Hotel & Towers,Enterprise,Goods,Germany,current customer,Medium,18 Months,Portal,C-Level,No,No,Yes,Yes,21,191,141,39000
+4541,ABC Computer Specialists Inc.,Fortune500,Retail,Brazil,current customer,Large,1 Year,Portal,C-Level,Yes,No,Yes,No,33,242,56,171000
+4542,ABC Alexander Inc.,SMB,Consumer Product,China,prospect,Big,2 Years,Portal,C-Level,Yes,Yes,No,Yes,18,129,19,18000
+4543,ABC Feuerwehr Tuning AG,Enterprise,Healthcare,Germany,current customer,Big,1 Year,Analytics,C-Level,Yes,Yes,No,No,8,153,57,66000
+4544,ABC IDONWANAPAY  Stores,Fortune500,Finserv,Brazil,current customer,Medium,1 Year,Identity Server,C-Level,No,No,No,No,39,264,188,174000
+4545,ABC Havers  Inc.,SMB,Goods,North America,current customer,Large,18 Months,ERP,Manager Level,No,No,Yes,No,14,126,70,30000
+4546,ABC Praxis Dr. Ernst & Dr. Weissing,SMB,Consumer Product,Brazil,prospect,Big,6 Months,Application Server,Manager Level,Yes,Yes,No,Yes,20,26,43,13000
+4547,ABC Holden & Associates,SMB,Construction,Russia,prior customer,Small,6 Months,Web Server,Manager Level,Yes,No,No,No,11,91,134,52000
+4548,ABC Fred Miller,Fortune500,Goods,Germany,current customer,Big,1 Year,Portal,C-Level,No,Yes,No,No,28,430,60,148000
+4549,ABC Industrie Dynamique,Enterprise,Healthcare,China,current customer,Medium,1 Month,ERP,Manager Level,Yes,No,No,Yes,5,129,22,49000
+4550,ABC LORI ZINNY,SMB,Consumer Product,UK,prospect,Large,1 Month,Analytics,Individual Contributor Level,No,No,No,Yes,20,28,31,46000
+4551,ABC ALAN FINER,Enterprise,Construction,Russia,current customer,Huge,18 Months,Application Server,C-Level,Yes,Yes,Yes,Yes,7,137,53,59000
+4552,ABC Pascal Roberts,Fortune500,Goods,UK,prior customer,Medium,18 Months,Portal,C-Level,No,No,Yes,Yes,23,228,37,74000
+4553,Alex Lynch Inc,Fortune500,Manufacturing,Germany,current customer,Medium,1 Year,Portal,C-Level,Yes,Yes,No,Yes,23,556,53,157000
+4554,Lampen-Markt GmbH Inc,Fortune500,Goods,Germany,current customer,Medium,1 Year,Identity Server,C-Level,No,Yes,No,No,35,300,63,115000
+4555,Computer Competence Center Inc,Enterprise,High tech,Brazil,prior customer,Huge,18 Months,CRM,C-Level,No,Yes,Yes,No,17,290,19,76000
+4556,Societe Chimique Picardie SA Inc,Enterprise,Consumer Product,Russia,prior customer,Big,6 Months,Database,Manager Level,Yes,Yes,No,No,25,68,86,45000
+4557,Caribbean Computer Supply Corp Inc,SMB,Retail,China,prospect,Big,1 Month,CRM,Individual Contributor Level,Yes,Yes,Yes,No,26,134,144,24000
+4558,PC-World Stuttgart KG Inc,Fortune500,Goods,Russia,current customer,Medium,1 Year,Database,C-Level,Yes,Yes,Yes,Yes,26,488,116,143000
+4559,Norwegian Import & Export Group Inc,Enterprise,Consumer Product,Japan,prior customer,Huge,6 Months,Database,Individual Contributor Level,No,Yes,Yes,Yes,13,216,119,41000
+4560,Andyna and Dynana Laboratories Inc Inc,Fortune500,Finserv,Germany,current customer,Huge,1 Year,Identity Server,C-Level,Yes,Yes,No,Yes,29,339,82,151000
+4561,Ketiv Technologies Inc,SMB,Retail,France,prior customer,Medium,18 Months,Database,C-Level,Yes,Yes,Yes,Yes,26,170,122,57000
+4562,Powers & Company Inc,Enterprise,Manufacturing,Germany,prospect,Large,6 Months,ERP,Manager Level,Yes,No,No,No,10,159,48,36000
+4563,Flatter & Asche AG Inc,SMB,Healthcare,France,prospect,Large,18 Months,CRM,Individual Contributor Level,No,Yes,No,Yes,23,97,151,33000
+4564,The Wine Consignee Inc. Inc,Enterprise,Finserv,France,prior customer,Big,6 Months,Database,Manager Level,No,Yes,Yes,Yes,19,291,104,49000
+4565,Gourmet Market Inc,Fortune500,Consumer Product,North America,prior customer,Small,6 Months,Security,C-Level,No,No,Yes,Yes,12,55,13,51000
+4566,Computer Systems Inc,Enterprise,Finserv,UK,prior customer,Big,1 Month,ERP,Manager Level,No,No,Yes,Yes,8,168,37,64000
+4567,American Security Company Inc,Enterprise,High tech,Japan,prior customer,Huge,1 Year,Portal,C-Level,No,No,Yes,Yes,22,94,52,73000
+4568,Hall Manufacturing Inc,SMB,Goods,North America,current customer,Huge,1 Month,ERP,Individual Contributor Level,No,No,No,Yes,4,51,42,20000
+4569,Avnet Electronics Inc,Enterprise,Manufacturing,China,current customer,Big,1 Year,CRM,C-Level,Yes,No,No,No,28,165,29,51000
+4570,Tom Little Inc,SMB,Goods,France,prospect,Small,1 Month,Portal,Individual Contributor Level,Yes,Yes,No,No,24,77,135,49000
+4571,ALAN FARRAR Inc,Fortune500,Apparel,Germany,current customer,Big,18 Months,ERP,Manager Level,No,Yes,Yes,No,25,66,131,39000
+4572,Mark Miller Inc,SMB,Consumer Product,Brazil,prospect,Medium,1 Month,Application Server,Individual Contributor Level,No,No,No,No,3,123,62,13000
+4573,Robert Jensen AG,Fortune500,High tech,North America,current customer,Huge,1 Year,Security,C-Level,No,No,No,Yes,33,466,121,132000
+4574,Janett Adams AG,SMB,Manufacturing,UK,prospect,Big,1 Month,Application Server,Individual Contributor Level,No,No,Yes,No,5,89,56,15000
+4575,Hitech AG AG,Fortune500,Consumer Product,China,current customer,Small,1 Year,Web Server,C-Level,No,No,No,Yes,38,273,155,139000
+4576,Amadeus AG,SMB,Manufacturing,France,prior customer,Medium,18 Months,Identity Server,Manager Level,Yes,No,Yes,No,21,271,136,45000
+4577,TALPA GmbH AG,SMB,Apparel,Russia,prospect,Large,6 Months,CRM,C-Level,No,No,Yes,Yes,7,55,86,36000
+4578,COMPU Tech. AG AG,SMB,Construction,Germany,current customer,Huge,1 Month,Web Server,Manager Level,No,No,Yes,Yes,2,30,42,27000
+4579,Jashanmal International Trading Co AG,SMB,Finserv,North America,prior customer,Small,1 Month,Portal,Individual Contributor Level,No,Yes,Yes,Yes,6,85,72,18000
+899,Candid International Technology AG,SMB,Healthcare,France,prospect,Large,6 Months,Application Server,C-Level,Yes,No,No,Yes,11,59,32,19000
+4580,Media Store AG,SMB,Retail,France,prospect,Small,6 Months,Security,C-Level,Yes,Yes,Yes,No,19,72,105,23000
+4581,PH Monitor Corporation AG,SMB,High tech,Japan,prospect,Medium,6 Months,Web Server,C-Level,Yes,No,Yes,No,14,22,52,22000
+4582,RIWA Headquarters AG,Fortune500,Retail,Japan,current customer,Small,1 Year,Application Server,C-Level,No,No,No,Yes,40,358,152,200000
+934,Einmalkunde AG,SMB,Apparel,Japan,current customer,Small,1 Year,Portal,C-Level,Yes,No,Yes,Yes,47,400,92,157000
+929,Krogertsens AG,Enterprise,Apparel,India,prospect,Huge,1 Month,Application Server,Individual Contributor Level,Yes,Yes,Yes,No,11,97,8,11000
+4583,06MegaStore AG,Fortune500,High tech,Brazil,current customer,Small,1 Year,Analytics,C-Level,Yes,No,Yes,No,46,487,194,138000
+4584,Ernst Brinkmann KG AG,SMB,Goods,Russia,prospect,Large,6 Months,Analytics,Individual Contributor Level,Yes,No,No,No,14,47,22,43000
+4585,Sunburst Inc AG,Enterprise,Healthcare,Japan,prior customer,Medium,1 Year,Web Server,C-Level,No,No,No,Yes,28,249,116,47000
+4586,Second Source AG,Enterprise,Consumer Product,Russia,current customer,Small,1 Month,CRM,Manager Level,Yes,Yes,Yes,Yes,20,135,135,38000
+4587,Timco Corporation AG,Enterprise,Healthcare,UK,prospect,Large,6 Months,Web Server,Individual Contributor Level,No,No,Yes,Yes,29,52,96,46000
+4588,JANE SANCHEZ AG,Fortune500,Consumer Product,Germany,current customer,Large,1 Year,Security,C-Level,No,Yes,Yes,No,45,401,20,170000
+4589,ALAN GUETTEL AG,SMB,High tech,UK,current customer,Medium,1 Year,ERP,C-Level,No,No,No,No,21,599,64,153000
+4590,Emma Bull GMBH,SMB,Retail,Russia,current customer,Large,18 Months,Web Server,Manager Level,Yes,Yes,Yes,Yes,6,107,154,19000
+4591,Albert Brooks GMBH,Enterprise,Consumer Product,France,prior customer,Big,1 Year,CRM,C-Level,Yes,Yes,Yes,No,15,237,17,52000
+4592,Institut fuer Umweltforschung GMBH,Enterprise,Finserv,Japan,prior customer,Medium,2 Years,Database,C-Level,Yes,No,No,Yes,21,284,37,40000
+4593,Christal Clear GMBH,Enterprise,Retail,UK,prior customer,Big,18 Months,ERP,C-Level,No,No,No,No,18,141,115,63000
+4594,General Distributors Inc. GMBH,Enterprise,Apparel,Italy,prior customer,Medium,6 Months,Application Server,C-Level,No,Yes,No,No,9,140,63,73000
+4595,SAPSOTA AG GMBH,Fortune500,High tech,North America,current customer,Big,1 Year,Web Server,C-Level,No,Yes,No,No,25,211,45,179000
+4596,Bit Market GMBH,Enterprise,Goods,China,current customer,Medium,1 Year,Analytics,C-Level,Yes,No,Yes,Yes,13,298,148,48000
+4597,Live Insurance Inc. GMBH,Enterprise,Retail,UK,prior customer,Big,1 Month,Database,C-Level,Yes,No,Yes,Yes,10,141,107,72000
+4598,Hotel Alfonso Del Vida GMBH,SMB,Retail,Japan,current customer,Huge,1 Year,Application Server,C-Level,No,No,No,No,24,190,153,170000
+4599,Tornado Motorsports GMBH,Enterprise,Healthcare,North America,prior customer,Huge,1 Year,Analytics,Manager Level,No,Yes,No,Yes,23,254,9,68000
+4600,Compu Tech GMBH,SMB,Construction,Italy,prospect,Large,1 Month,CRM,Individual Contributor Level,No,No,No,Yes,17,113,113,21000
+4601,Zuber AG GMBH,SMB,Apparel,Brazil,prior customer,Huge,6 Months,Security,Individual Contributor Level,Yes,No,No,No,4,149,29,46000
+4602,Wal-Mart GMBH,Fortune500,Healthcare,Germany,current customer,Big,1 Year,ERP,C-Level,Yes,Yes,Yes,No,32,440,135,118000
+4603,Cliente 2 GMBH,SMB,Retail,China,prospect,Large,18 Months,Portal,Manager Level,Yes,Yes,Yes,Yes,20,111,108,48000
+4604,Praxis Dr. M³ller GMBH,SMB,High tech,Italy,current customer,Huge,1 Year,Application Server,Individual Contributor Level,No,No,Yes,Yes,15,88,105,39000
+4605,Titan Manufacturing GMBH,Enterprise,High tech,North America,prospect,Big,6 Months,CRM,C-Level,No,Yes,Yes,No,18,169,16,69000
+4606,Jim┤s Mart 1026 GMBH,SMB,Goods,India,current customer,Small,1 Year,Analytics,C-Level,Yes,Yes,Yes,No,42,566,170,148000
+4607,Microwell GMBH,Fortune500,Manufacturing,France,current customer,Big,1 Year,Identity Server,C-Level,No,No,No,No,27,473,133,169000
+4608,MARIE ZDROK GMBH,SMB,Construction,Brazil,prior customer,Medium,6 Months,Application Server,Individual Contributor Level,Yes,Yes,Yes,Yes,21,264,31,53000
+4609,BILL FERRARA GMBH,SMB,High tech,Russia,prospect,Big,2 Years,CRM,Individual Contributor Level,No,Yes,Yes,No,15,24,116,26000
+4610,Tandra GMBH,Fortune500,Goods,Brazil,current customer,Large,1 Year,Analytics,C-Level,No,No,Yes,No,30,187,125,169000
+4611,Tracy Collins SA,SMB,Apparel,Brazil,prospect,Medium,1 Year,Application Server,Manager Level,No,Yes,No,Yes,15,23,109,46000
+4612,Becker Berlin SA,SMB,Construction,India,prior customer,Large,1 Month,Security,Individual Contributor Level,Yes,Yes,Yes,Yes,23,140,151,17000
+4613,Elektromarkt Bamby SA,SMB,Construction,UK,prospect,Big,18 Months,Database,Individual Contributor Level,No,Yes,Yes,Yes,20,283,74,75000
+4614,PILAR am Neckar SA,Fortune500,Construction,India,current customer,Medium,1 Year,Portal,C-Level,Yes,No,No,Yes,15,232,78,109000
+4615,Motor Sports SA,Enterprise,Retail,UK,current customer,Big,18 Months,Portal,C-Level,No,Yes,No,No,10,267,28,37000
+4616,CompuMax GmbH SA,SMB,High tech,China,prospect,Small,1 Month,Database,Individual Contributor Level,Yes,Yes,No,Yes,5,138,99,21000
+4617,Miller & Son Trading Ltd. SA,Enterprise,Consumer Product,France,prior customer,Medium,1 Year,Web Server,C-Level,Yes,Yes,Yes,No,19,81,77,41000
+4618,Cross Worlds Consulting SA,Fortune500,Consumer Product,Italy,current customer,Small,1 Year,ERP,C-Level,Yes,Yes,No,No,43,268,193,167000
+4619,Tidemann Electronics SA,SMB,Construction,France,current customer,Medium,18 Months,Analytics,Manager Level,No,Yes,No,Yes,11,36,50,11000
+4620,Wallace Distribution SA,SMB,Apparel,India,prospect,Large,18 Months,Identity Server,Manager Level,Yes,No,No,No,20,15,152,30000
+4621,Inustrias Pacificas S.A. SA,Enterprise,Goods,Germany,prior customer,Small,1 Year,Identity Server,Manager Level,No,Yes,Yes,No,5,215,5,73000
+4622,Global Technologies PLC SA,SMB,Finserv,Italy,prospect,Large,6 Months,Identity Server,Manager Level,Yes,No,Yes,No,8,75,153,33000
+4623,Buying Unlimited SA,Fortune500,High tech,Italy,current customer,Medium,1 Year,Web Server,C-Level,No,Yes,Yes,No,30,457,187,114000
+4624,Cilox HiTech SA,Fortune500,Construction,Germany,prospect,Medium,1 Month,Portal,Manager Level,Yes,Yes,Yes,Yes,25,64,112,31000
+4625,Thornbury Enterprises SA,SMB,Goods,India,prior customer,Large,1 Year,Security,C-Level,No,Yes,No,No,26,166,9,60000
+4626,Innovative Systems Inc. SA,SMB,High tech,China,prospect,Small,6 Months,Database,Individual Contributor Level,Yes,Yes,No,No,16,84,6,26000
+4627,Townsend Company SA,Fortune500,Consumer Product,China,current customer,Large,1 Year,Security,C-Level,Yes,No,Yes,Yes,46,342,102,133000
+4628,Lou Windham SA,Enterprise,High tech,France,prior customer,Huge,1 Year,Database,C-Level,Yes,Yes,Yes,Yes,14,129,10,56000
+4629,JIM FARAIZL SA,SMB,High tech,China,prior customer,Big,6 Months,Identity Server,Manager Level,Yes,No,Yes,Yes,4,20,131,18000
+4630,Sandra 00Turner SA,Enterprise,Goods,UK,current customer,Big,2 Years,CRM,C-Level,No,No,No,Yes,9,282,147,64000
+4631,Chelsa Quinn Yates PLC,SMB,High tech,Brazil,prior customer,Big,6 Months,ERP,Manager Level,No,No,No,Yes,22,121,39,49000
+4632,Douglas Barker PLC,Fortune500,Construction,France,prospect,Small,6 Months,Database,Manager Level,Yes,No,Yes,Yes,21,28,109,31000
+4633,Phundix KG PLC,SMB,High tech,Brazil,prospect,Medium,18 Months,CRM,Individual Contributor Level,Yes,No,Yes,Yes,7,83,62,44000
+4634,NSM Pumpentechnik AG PLC,Enterprise,Consumer Product,UK,prior customer,Big,1 Year,Portal,Manager Level,No,Yes,No,No,15,202,54,55000
+4635,Deutsche Computer AG PLC,SMB,High tech,Germany,prior customer,Big,1 Month,Security,Individual Contributor Level,No,Yes,No,Yes,21,92,14,17000
+4636,Software Systeme GmbH PLC,Enterprise,Healthcare,UK,prospect,Small,1 Year,CRM,Individual Contributor Level,No,Yes,Yes,Yes,11,182,47,49000
+4637,Napoli Export PLC,SMB,Retail,Italy,prospect,Medium,2 Years,Web Server,Manager Level,Yes,Yes,No,No,11,107,108,27000
+4638,Princeton Health Center PLC,Enterprise,Finserv,Germany,prior customer,Small,6 Months,Application Server,Manager Level,Yes,No,No,No,25,267,20,52000
+4639,Park Lane Hotel And Spa PLC,Fortune500,Consumer Product,UK,current customer,Medium,1 Year,Analytics,C-Level,No,No,No,Yes,37,377,36,156000
+1484,Candid International Technology PLC,Enterprise,Healthcare,North America,prospect,Huge,1 Month,CRM,Individual Contributor Level,No,No,No,Yes,25,297,124,62000
+4640,Hallmann Anlagenbau GmbH PLC,Fortune500,Healthcare,Germany,current customer,Large,1 Year,Security,C-Level,Yes,Yes,No,No,39,356,164,173000
+4641,Schnelle Feuerwehr PLC,Enterprise,Construction,UK,prior customer,Medium,2 Years,Analytics,Manager Level,No,No,Yes,No,24,212,47,50000
+1534,Krogertsens PLC,Enterprise,Finserv,Japan,prior customer,Large,18 Months,ERP,C-Level,Yes,No,No,No,7,214,25,69000
+4642,01Megastore PLC,Enterprise,Retail,India,prior customer,Large,6 Months,Portal,C-Level,Yes,Yes,Yes,Yes,15,113,23,43000
+4643,REMA WH Regensburg PLC,Fortune500,Construction,India,current customer,Large,2 Years,Security,Individual Contributor Level,Yes,No,No,No,23,107,126,37000
+4644,Brighton Inc PLC,Enterprise,Construction,Italy,prior customer,Small,6 Months,Web Server,C-Level,No,Yes,No,Yes,16,69,133,46000
+4645,Data Corp. PLC,Fortune500,High tech,Russia,prior customer,Small,6 Months,Identity Server,Manager Level,Yes,No,No,Yes,24,103,40,60000
+4646,Greentree Enterprise PLC,Enterprise,Construction,Italy,prior customer,Small,6 Months,Analytics,C-Level,Yes,Yes,No,Yes,13,238,61,47000
+4647,JANE CASTILLO PLC,SMB,Goods,Brazil,prospect,Small,6 Months,Identity Server,Individual Contributor Level,Yes,Yes,No,No,4,72,78,16000
+4648,JOHN GRÍNROS PLC,Enterprise,Construction,China,prior customer,Small,6 Months,Web Server,C-Level,No,No,No,No,27,257,62,67000
+4649,Nelson Tax & Associates LTD,Enterprise,Finserv,China,prior customer,Small,1 Year,Portal,Manager Level,No,Yes,No,Yes,8,93,46,71000
+4650,Agnes Varda LTD,Enterprise,Apparel,North America,prior customer,Medium,1 Year,Identity Server,C-Level,Yes,Yes,Yes,No,10,105,58,53000
+4651,Autohaus Franzl GmbH LTD,Enterprise,Retail,France,prospect,Medium,18 Months,CRM,C-Level,No,No,No,No,12,277,56,64000
+4652,LCH Markt LTD,Enterprise,Goods,Italy,prospect,Huge,6 Months,Application Server,C-Level,No,No,No,No,26,174,95,76000
+4653,General Distributors GmbH LTD,Enterprise,Consumer Product,UK,prior customer,Large,1 Month,Database,Individual Contributor Level,No,Yes,Yes,No,16,48,42,13000
+4654,Carbor GmbH LTD,Fortune500,Retail,France,prospect,Huge,1 Month,Identity Server,C-Level,Yes,Yes,No,Yes,15,146,97,36000
+4655,S.C.T. Electro LTD,SMB,Apparel,Italy,current customer,Big,1 Month,Portal,Individual Contributor Level,No,Yes,Yes,No,12,85,146,26000
+4656,Industrial Supplies Inc. LTD,Enterprise,Construction,Brazil,prospect,Small,1 Year,ERP,C-Level,Yes,No,Yes,No,5,95,135,64000
+4657,Palo Alto Airways Inc. LTD,Fortune500,Retail,Brazil,current customer,Small,1 Month,CRM,Manager Level,Yes,Yes,No,No,19,266,30,65000
+4658,Hotshot Racing LTD,Fortune500,Healthcare,Brazil,current customer,Small,1 Year,Database,C-Level,Yes,No,Yes,Yes,24,312,84,152000
+4659,Company World Incorporated LTD,Fortune500,Construction,Brazil,current customer,Huge,1 Year,CRM,C-Level,No,No,No,No,20,497,139,145000
+4660,John Taylor LTD,SMB,Goods,China,prospect,Big,1 Month,Database,Individual Contributor Level,Yes,Yes,Yes,No,30,59,35,17000
+4661,IDES US Inc. LTD,SMB,Finserv,UK,current customer,Large,6 Months,Database,Manager Level,Yes,Yes,Yes,No,18,17,87,13000
+4662,Muster Kunde LTD,Fortune500,High tech,North America,current customer,Big,1 Year,Application Server,C-Level,No,No,No,No,35,499,167,187000
+4663,Antipolis LTD,SMB,Manufacturing,Italy,current customer,Small,1 Year,Security,C-Level,No,No,Yes,No,33,536,133,139000
+4664,Web Design Studio LTD,SMB,Consumer Product,UK,prior customer,Medium,18 Months,Portal,C-Level,No,Yes,Yes,No,11,204,24,47000
+4665,Rema Store 1010 LTD,Enterprise,High tech,Japan,prospect,Medium,1 Month,Database,Manager Level,No,No,Yes,Yes,20,229,40,49000
+4666,EC Enterprises LTD,SMB,Goods,Brazil,prior customer,Medium,6 Months,CRM,C-Level,No,No,Yes,Yes,17,84,148,31000
+4667,MARIE WITENBURG LTD,Fortune500,Manufacturing,UK,current customer,Medium,1 Year,Analytics,C-Level,No,Yes,No,Yes,17,453,70,133000
+4668,BILL FERNANCE LTD,SMB,Retail,Japan,prior customer,Small,6 Months,Security,C-Level,No,Yes,Yes,Yes,8,134,30,39000
+4669,Scott Parker LTD,Fortune500,Finserv,North America,current customer,Huge,1 Year,Analytics,C-Level,Yes,No,No,No,21,595,200,187000
+4670,Joe Masson SPA,Enterprise,Manufacturing,UK,prior customer,Large,1 Year,Security,C-Level,Yes,No,Yes,Yes,23,126,155,39000
+4671,Ronald Bey SPA,SMB,High tech,Russia,prior customer,Huge,6 Months,Analytics,Manager Level,Yes,Yes,No,Yes,25,65,117,30000
+4672,Motomarkt Stuttgart GmbH SPA,Fortune500,Consumer Product,UK,current customer,Huge,1 Year,Database,C-Level,No,No,Yes,Yes,22,375,98,174000
+4673,A.I.T. GmbH SPA,SMB,Consumer Product,Russia,prospect,Medium,18 Months,Database,Manager Level,No,No,Yes,No,31,33,119,30000
+4674,J & P SPA,SMB,Healthcare,Germany,prior customer,Large,1 Year,Web Server,Individual Contributor Level,No,No,No,Yes,5,31,33,22000
+4675,Jaspers Computers SPA,SMB,Construction,Brazil,current customer,Huge,6 Months,Portal,C-Level,No,Yes,No,No,24,29,144,20000
+4676,Bernardin SA SPA,SMB,High tech,India,current customer,Big,6 Months,Portal,C-Level,Yes,Yes,Yes,Yes,13,53,17,47000
+4677,Mafor Software Service Corp. SPA,Enterprise,Retail,Japan,prior customer,Medium,1 Year,Security,Individual Contributor Level,Yes,No,Yes,No,26,83,118,38000
+4678,ALPHA Center SPA,Enterprise,Retail,UK,prospect,Medium,2 Years,Database,Manager Level,Yes,Yes,No,Yes,12,98,140,36000
+4679,North Energy Ltd SPA,SMB,Apparel,China,prior customer,Big,1 Month,Web Server,Individual Contributor Level,No,No,Yes,Yes,22,34,64,49000
+4680,RIWA Regional Warehouse Denver SPA,Enterprise,Retail,Italy,prior customer,Large,2 Years,Web Server,Manager Level,Yes,No,No,No,22,172,125,50000
+4681,Global Industries PLC SPA,Enterprise,High tech,France,prior customer,Big,6 Months,Security,C-Level,No,Yes,No,No,10,170,96,39000
+4682,Software Warehouse SPA,Enterprise,Retail,Japan,prior customer,Big,1 Month,Analytics,C-Level,No,Yes,No,Yes,21,200,139,47000
+4683,Havers Inc SPA,Enterprise,Goods,Japan,prior customer,Huge,18 Months,ERP,Manager Level,Yes,No,Yes,No,10,221,20,57000
+4684,Clinton Industries SPA,Fortune500,Healthcare,Brazil,current customer,Medium,1 Year,Web Server,C-Level,No,No,No,Yes,37,224,82,151000
+4685,JMart SPA,Enterprise,Consumer Product,Russia,prior customer,Large,6 Months,Portal,Manager Level,No,Yes,No,Yes,15,133,134,22000
+4686,World PC Inc. SPA,Fortune500,Healthcare,Japan,current customer,Huge,1 Year,CRM,C-Level,Yes,No,Yes,Yes,42,385,127,162000
+4687,Landstar Corp SPA,SMB,High tech,Italy,prospect,Huge,1 Month,Analytics,Manager Level,No,Yes,Yes,No,20,84,85,26000
+4688,ALAN FAITH SPA,SMB,Finserv,Brazil,prospect,Large,6 Months,Portal,Manager Level,No,No,No,No,16,62,63,11000
+4689,ALAN GWARA SPA,Enterprise,Manufacturing,Germany,prior customer,Small,6 Months,Security,C-Level,Yes,No,Yes,Yes,14,194,55,55000
+4690,Roger Zahn SRL,SMB,Finserv,Brazil,prospect,Medium,1 Year,Web Server,Individual Contributor Level,Yes,No,Yes,No,10,66,10,18000
+4691,Peter King SRL,SMB,Retail,Italy,prior customer,Medium,1 Month,Application Server,Manager Level,Yes,Yes,Yes,Yes,27,90,136,35000
+4692,ERL Freiburg SRL,Enterprise,Retail,Germany,prospect,Big,1 Year,Security,C-Level,No,Yes,No,Yes,7,237,74,50000
+4693,Becker Stuttgart SRL,Enterprise,Construction,UK,current customer,Medium,1 Year,Database,Manager Level,Yes,No,No,No,2,46,9,44000
+4694,Aircraft Products SRL,Enterprise,Goods,Japan,prior customer,Big,6 Months,Web Server,Manager Level,Yes,No,Yes,Yes,11,142,95,43000
+4695,Etelko Textilien SRL,Enterprise,Healthcare,Italy,prior customer,Small,6 Months,Application Server,C-Level,Yes,No,Yes,No,29,79,117,56000
+4696,Motomarkt Heidelberg GmbH SRL,SMB,High tech,France,prospect,Big,1 Month,Security,Manager Level,Yes,No,Yes,Yes,25,83,20,37000
+4697,Insurance Company SRL,Fortune500,Goods,North America,current customer,Small,1 Year,Security,C-Level,Yes,No,No,Yes,25,306,135,195000
+4698,Rogier Golf Resort YY SRL,Enterprise,Apparel,India,prior customer,Big,2 Years,ERP,C-Level,No,Yes,No,No,29,275,18,63000
+4699,LES Sales Company SRL,SMB,Consumer Product,China,prospect,Large,1 Month,Web Server,Manager Level,No,No,Yes,No,26,22,33,12000
+4700,Karl Smith SRL,SMB,Goods,North America,prior customer,Large,18 Months,Database,Individual Contributor Level,Yes,Yes,Yes,Yes,23,73,17,15000
+4701,Walther Maschinenbau GmbH SRL,SMB,High tech,Italy,current customer,Big,1 Month,Security,Individual Contributor Level,No,No,Yes,No,24,90,32,43000
+4702,Super-Mart SRL,SMB,Construction,Brazil,prospect,Big,6 Months,Security,Manager Level,No,Yes,No,No,29,59,30,37000
+4703,REMA Superstore SRL,Enterprise,Apparel,China,prior customer,Small,6 Months,Web Server,C-Level,No,Yes,No,Yes,7,163,28,74000
+4704,Praxis Dr. Rot SRL,SMB,Goods,Russia,current customer,Huge,1 Year,Portal,C-Level,Yes,Yes,Yes,Yes,45,169,166,167000
+4705,Milton & Milton SRL,SMB,Healthcare,India,prospect,Small,1 Year,Analytics,Individual Contributor Level,No,Yes,Yes,Yes,9,39,86,43000
+4706,vNet SRL,Fortune500,Consumer Product,UK,current customer,Medium,1 Year,Portal,C-Level,No,No,Yes,Yes,40,220,38,156000
+4707,Abidon Corp SRL,Fortune500,Apparel,Japan,current customer,Medium,1 Year,Analytics,C-Level,Yes,Yes,No,No,40,408,167,131000
+4708,JANET ZUSSIN SRL,Enterprise,Goods,China,prior customer,Big,1 Month,Analytics,Individual Contributor Level,No,Yes,No,Yes,29,199,59,45000
+4709,JAMES GRUPER SRL,SMB,High tech,Italy,prospect,Huge,18 Months,Analytics,C-Level,Yes,No,No,Yes,18,122,77,12000
+4710,Kim Possible Inc. - East SRL,Enterprise,Retail,China,prior customer,Small,1 Year,ERP,C-Level,Yes,No,Yes,Yes,27,91,135,72000
+4711,Steve Martin SARL,SMB,Apparel,UK,current customer,Large,6 Months,Portal,Manager Level,No,No,Yes,No,16,111,151,39000
+4712,Omega Soft-Hardware Markt SARL,SMB,Healthcare,UK,prior customer,Huge,6 Months,Application Server,Individual Contributor Level,No,No,Yes,Yes,20,129,55,50000
+4713,Minerva Energieversorgung GmbH SARL,Enterprise,Consumer Product,Russia,prospect,Medium,2 Years,Application Server,C-Level,No,Yes,No,No,13,136,153,38000
+4714,General Distributors Inc SARL,SMB,Goods,Italy,prior customer,Medium,6 Months,Analytics,Manager Level,No,Yes,Yes,Yes,25,101,34,50000
+4715,Mansur Computers. Inc. SARL,Enterprise,Finserv,China,prospect,Medium,18 Months,ERP,C-Level,No,No,No,No,14,214,10,50000
+4716,Alpha-Systems GmbH SARL,Enterprise,Retail,UK,prospect,Large,1 Year,Analytics,Manager Level,Yes,Yes,Yes,No,9,125,68,61000
+4717,Thomas Bush Inc. SARL,SMB,Healthcare,UK,prior customer,Large,1 Year,Identity Server,Manager Level,No,No,No,Yes,14,145,106,17000
+4718,Department of Defense SARL,Fortune500,Goods,Japan,current customer,Large,1 Year,Portal,C-Level,Yes,Yes,No,No,18,182,174,154000
+4719,Tornado Motorsport SARL,SMB,Finserv,UK,current customer,Medium,1 Month,Application Server,Manager Level,No,No,No,No,30,114,149,13000
+4720,Thomas World Distribution SARL,SMB,Finserv,China,current customer,Small,6 Months,Application Server,C-Level,No,Yes,Yes,No,24,41,145,32000
+4721,Andrew Sands SARL,Enterprise,Consumer Product,UK,prospect,Medium,18 Months,Security,Manager Level,No,Yes,Yes,No,14,245,92,68000
+4722,BZ Wines Inc. SARL,SMB,Consumer Product,Germany,current customer,Huge,18 Months,Analytics,Manager Level,Yes,No,Yes,No,17,53,32,19000
+2328,Einmalkunde SARL,SMB,Apparel,France,prospect,Huge,1 Month,Security,Manager Level,Yes,No,No,Yes,7,33,69,19000
+4723,Dynamic Industries SARL,SMB,Goods,Brazil,current customer,Small,1 Month,Application Server,Manager Level,No,No,No,Yes,26,42,10,43000
+4724,Century Software.Com SARL,Enterprise,Finserv,UK,prior customer,Small,1 Year,ERP,Manager Level,No,No,No,No,12,199,85,46000
+4725,Heiner Schmidtmann SARL,Fortune500,Goods,India,current customer,Huge,1 Year,Application Server,C-Level,Yes,Yes,Yes,No,32,518,68,156000
+4726,Brazil Technologies SARL,SMB,Goods,France,prospect,Huge,6 Months,Identity Server,Individual Contributor Level,No,No,No,No,31,119,121,29000
+4727,LORI WINTER SARL,SMB,Finserv,India,prospect,Big,18 Months,ERP,Manager Level,No,No,No,Yes,15,70,131,15000
+4728,JAMES FERENCY SARL,SMB,Consumer Product,Japan,prospect,Medium,1 Month,Portal,Individual Contributor Level,No,Yes,No,Yes,30,116,30,41000
+4729,Peter Hoffman SARL,SMB,Healthcare,China,prospect,Big,6 Months,Identity Server,Manager Level,Yes,Yes,No,Yes,24,113,7,41000
+4730,Charles Scott BV,SMB,Apparel,Germany,prior customer,Huge,18 Months,Portal,Manager Level,No,No,Yes,Yes,8,86,60,44000
+4731,David Lynch BV,Enterprise,Healthcare,France,prior customer,Big,6 Months,Identity Server,C-Level,No,No,No,Yes,20,132,68,37000
+4732,CBD Computer Based Design BV,SMB,Apparel,Japan,current customer,Huge,6 Months,ERP,C-Level,No,Yes,Yes,Yes,28,97,148,32000
+4733,Technik und Systeme GmbH BV,SMB,Retail,China,prospect,Medium,1 Year,Application Server,Individual Contributor Level,Yes,Yes,No,No,9,66,21,35000
+4734,CompSmart Inc. BV,SMB,Consumer Product,North America,current customer,Big,1 Year,Web Server,Manager Level,Yes,No,Yes,Yes,8,21,19,44000
+4735,N.I.C. High Tech BV,Fortune500,Construction,India,current customer,Small,1 Year,ERP,C-Level,No,No,No,No,40,379,182,185000
+4736,Adecom SA BV,Enterprise,Goods,India,prior customer,Medium,1 Month,CRM,Manager Level,No,Yes,No,Yes,24,40,138,44000
+4737,C-Tech Corp BV,Enterprise,Consumer Product,Russia,prior customer,Large,1 Year,Portal,C-Level,No,No,Yes,No,19,154,10,36000
+4738,ADCOM COMPUTER BV,Enterprise,Apparel,France,prior customer,Big,1 Year,Security,Manager Level,No,Yes,No,Yes,5,210,109,43000
+4739,CCS Industrial BV,Fortune500,Retail,France,current customer,Large,1 Year,Database,C-Level,Yes,Yes,No,No,26,380,175,173000
+4740,RIWA Regional Storage Trenton BV,SMB,Goods,North America,prospect,Large,6 Months,CRM,Individual Contributor Level,Yes,Yes,No,Yes,26,45,133,13000
+4741,PR Electronics France BV,SMB,High tech,Russia,current customer,Medium,1 Year,ERP,C-Level,Yes,Yes,No,No,43,220,190,162000
+4742,Mamoun Darkazanli BV,Enterprise,Healthcare,Japan,prior customer,Big,1 Year,ERP,C-Level,No,No,Yes,No,11,149,64,53000
+4743,Carmella Credit BV,Enterprise,Retail,Russia,prior customer,Large,6 Months,ERP,Manager Level,Yes,Yes,No,Yes,18,231,21,71000
+4744,Builders Depot BV,SMB,Apparel,Italy,prospect,Small,18 Months,Application Server,C-Level,Yes,No,No,Yes,28,147,148,43000
+4745,Matrax BV,Enterprise,High tech,China,prior customer,Huge,6 Months,Portal,C-Level,No,Yes,No,Yes,26,126,41,72000
+4746,xNET BV,SMB,High tech,Russia,prior customer,Big,1 Month,Analytics,Manager Level,Yes,No,No,Yes,21,128,22,42000
+4747,Rawlings Group BV,Enterprise,High tech,UK,prior customer,Big,2 Years,Security,Manager Level,No,No,No,Yes,16,164,87,42000
+4748,P. Baker BV,SMB,Apparel,India,prior customer,Medium,1 Month,Security,Individual Contributor Level,Yes,Yes,Yes,No,22,111,111,21000
+4749,BEN GUIER BV,SMB,Finserv,UK,prospect,Large,1 Year,Database,Individual Contributor Level,No,Yes,Yes,Yes,19,94,66,47000
+4750,John Evans CooP,Fortune500,Apparel,China,current customer,Medium,1 Year,Identity Server,C-Level,Yes,Yes,Yes,No,34,591,82,115000
+4751,Edward Burns CooP,Enterprise,Retail,North America,current customer,Medium,1 Year,CRM,Individual Contributor Level,No,No,Yes,Yes,17,239,54,66000
+4752,Karsson High Tech Markt CooP,Enterprise,Consumer Product,North America,prior customer,Big,1 Month,Analytics,C-Level,Yes,Yes,No,Yes,21,164,109,46000
+4753,Becker Koeln CooP,Enterprise,Consumer Product,North America,prospect,Huge,2 Years,Application Server,Individual Contributor Level,No,Yes,Yes,Yes,7,34,81,40000
+4754,C.A.S. Computer Application Systems CooP,Fortune500,High tech,Italy,current customer,Medium,1 Year,Web Server,C-Level,No,Yes,Yes,Yes,18,342,72,137000
+4755,SudaTech GmbH CooP,Enterprise,Apparel,India,prior customer,Small,18 Months,Portal,Manager Level,Yes,Yes,No,No,18,125,58,62000
+4756,HTG Komponente GmbH CooP,SMB,Finserv,France,prospect,Medium,1 Month,Security,Manager Level,No,Yes,Yes,No,14,119,105,27000
+4757,Davis Integration System CooP,SMB,High tech,Italy,prospect,Huge,6 Months,ERP,C-Level,Yes,Yes,No,Yes,26,61,24,16000
+4758,La Quinta Hotel & Towers CooP,Enterprise,Retail,North America,prior customer,Small,2 Years,Application Server,Manager Level,No,No,No,No,11,159,142,70000
+4759,Computer Specialists Inc. CooP,SMB,Retail,France,prior customer,Big,1 Month,Security,Manager Level,Yes,Yes,No,Yes,4,75,61,19000
+4760,Alexander Inc. CooP,Enterprise,Healthcare,Brazil,prior customer,Huge,6 Months,Database,C-Level,No,No,No,No,22,137,135,58000
+4761,Feuerwehr Tuning AG CooP,SMB,Apparel,North America,prior customer,Large,6 Months,CRM,Individual Contributor Level,No,Yes,Yes,No,8,89,117,25000
+4762,IDONWANAPAY  Stores CooP,SMB,Manufacturing,Japan,prospect,Small,1 Month,Application Server,Individual Contributor Level,Yes,No,No,Yes,19,83,105,12000
+4763,Havers  Inc. CooP,SMB,Retail,Germany,prospect,Huge,1 Month,Analytics,Manager Level,No,Yes,Yes,Yes,30,15,112,14000
+4764,Praxis Dr. Ernst & Dr. Weissing CooP,Enterprise,Healthcare,Brazil,prospect,Medium,6 Months,ERP,Manager Level,Yes,No,Yes,Yes,15,247,13,70000
+4765,Holden & Associates CooP,Enterprise,Finserv,Russia,prior customer,Huge,18 Months,Analytics,Manager Level,Yes,Yes,No,Yes,12,101,68,47000
+4766,Fred Miller CooP,Fortune500,Healthcare,India,current customer,Big,1 Year,Database,C-Level,Yes,Yes,No,No,24,231,159,121000
+4767,Industrie Dynamique CooP,SMB,High tech,France,prior customer,Large,6 Months,Portal,Manager Level,No,No,No,No,28,52,14,16000
+4768,LORI ZINNY CooP,SMB,Construction,Russia,prospect,Large,1 Month,CRM,Individual Contributor Level,Yes,Yes,No,Yes,3,69,99,47000
+4769,ALAN FINER CooP,SMB,High tech,Russia,prospect,Big,1 Month,Identity Server,Manager Level,No,Yes,No,No,6,139,73,26000
+4770,Pascal Roberts CooP,Enterprise,Apparel,UK,prior customer,Huge,1 Year,Portal,Manager Level,Yes,Yes,No,Yes,15,202,100,56000
+4771,Alex Lynch SGPS,Enterprise,Apparel,Italy,prior customer,Small,1 Year,ERP,Manager Level,Yes,Yes,Yes,Yes,27,74,109,58000
+4772,Lampen-Markt GmbH SGPS,Fortune500,Construction,Brazil,prospect,Small,1 Month,Analytics,C-Level,No,Yes,Yes,Yes,30,104,99,19000
+4773,Computer Competence Center SGPS,Enterprise,Retail,Brazil,prior customer,Huge,18 Months,Web Server,C-Level,No,No,No,No,23,182,59,73000
+4774,Societe Chimique Picardie SA SGPS,SMB,Finserv,Italy,prospect,Large,1 Month,Analytics,Individual Contributor Level,Yes,No,No,No,14,140,105,25000
+4775,Caribbean Computer Supply Corp SGPS,Fortune500,Goods,China,prospect,Small,1 Month,Web Server,Individual Contributor Level,No,No,Yes,No,3,28,107,14000
+4776,PC-World Stuttgart KG SGPS,Enterprise,Construction,Germany,current customer,Huge,1 Month,Portal,Manager Level,No,No,No,No,5,266,113,54000
+4777,Norwegian Import & Export Group SGPS,Enterprise,Goods,China,prior customer,Large,1 Year,Web Server,C-Level,Yes,No,No,No,6,195,26,54000
+4778,Andyna and Dynana Laboratories Inc SGPS,Enterprise,Goods,UK,prior customer,Big,6 Months,Analytics,Manager Level,Yes,Yes,No,No,5,167,25,55000
+4779,Ketiv Technologies SGPS,Fortune500,Manufacturing,Italy,current customer,Huge,1 Year,Analytics,C-Level,Yes,Yes,Yes,No,32,175,86,117000
+4780,Powers & Company SGPS,Enterprise,Apparel,Russia,prior customer,Huge,18 Months,Portal,C-Level,Yes,No,Yes,No,6,85,63,41000
+4781,Flatter & Asche AG SGPS,SMB,Retail,Japan,prior customer,Large,6 Months,Analytics,Individual Contributor Level,Yes,No,Yes,Yes,15,98,67,11000
+4782,The Wine Consignee Inc. SGPS,Enterprise,Goods,India,current customer,Huge,1 Year,Portal,Manager Level,Yes,Yes,No,No,7,266,92,53000
+4783,Gourmet Market SGPS,Enterprise,Finserv,Italy,prospect,Medium,2 Years,Application Server,Manager Level,Yes,No,Yes,Yes,20,147,21,42000
+4784,Computer Systems SGPS,SMB,Retail,China,prospect,Medium,6 Months,Analytics,Manager Level,No,No,No,Yes,4,45,108,21000
+4785,American Security Company SGPS,Fortune500,Healthcare,UK,current customer,Medium,1 Year,Web Server,C-Level,Yes,Yes,Yes,Yes,49,348,176,91000
+4786,Hall Manufacturing SGPS,SMB,Apparel,Japan,prospect,Medium,6 Months,ERP,Individual Contributor Level,No,No,Yes,No,4,55,60,36000
+4787,Avnet Electronics SGPS,SMB,Healthcare,Germany,prior customer,Large,6 Months,Web Server,Manager Level,Yes,Yes,Yes,Yes,15,87,119,11000
+4788,Tom Little SGPS,Fortune500,Consumer Product,North America,current customer,Large,1 Year,Identity Server,C-Level,Yes,Yes,No,No,45,527,67,169000
+4789,ALAN FARRAR SGPS,SMB,Retail,Japan,prior customer,Huge,1 Month,CRM,Manager Level,Yes,No,Yes,No,14,21,30,41000
+4790,Mark Miller SGPS,Fortune500,Consumer Product,Germany,current customer,Large,1 Year,Portal,C-Level,No,Yes,No,Yes,15,274,110,128000
+4791,Robert Jensen NV,SMB,Manufacturing,Germany,prospect,Small,2 Years,Security,Individual Contributor Level,No,Yes,No,Yes,27,104,58,49000
+4792,Janett Adams NV,SMB,Construction,North America,current customer,Large,18 Months,Identity Server,Manager Level,No,No,Yes,No,31,105,109,14000
+4793,Hitech AG NV,SMB,Manufacturing,France,prospect,Small,18 Months,Portal,Manager Level,No,No,Yes,Yes,25,66,121,30000
+4794,Amadeus NV,Enterprise,Finserv,Italy,prior customer,Small,18 Months,Analytics,C-Level,No,No,Yes,Yes,29,139,154,64000
+4795,TALPA GmbH NV,Enterprise,High tech,UK,prior customer,Big,18 Months,CRM,Manager Level,No,No,No,Yes,15,100,22,74000
+4796,COMPU Tech. AG NV,Enterprise,Goods,Brazil,prior customer,Small,6 Months,Application Server,Manager Level,No,Yes,Yes,Yes,18,66,44,68000
+4797,Jashanmal International Trading Co NV,Enterprise,Goods,Italy,prior customer,Small,18 Months,Portal,C-Level,Yes,Yes,Yes,Yes,9,241,152,60000
+3112,Candid International Technology NV,Enterprise,Manufacturing,Italy,prior customer,Huge,1 Year,Security,C-Level,Yes,Yes,No,No,11,292,6,73000
+4798,Media Store NV,Fortune500,Construction,UK,current customer,Large,1 Year,Analytics,C-Level,Yes,Yes,No,No,27,240,27,140000
+4799,PH Monitor Corporation NV,Enterprise,Construction,North America,prospect,Small,2 Years,ERP,Individual Contributor Level,No,No,Yes,No,23,46,100,19000
+4800,RIWA Headquarters NV,Fortune500,Construction,North America,current customer,Large,1 Year,Database,C-Level,No,No,No,No,49,551,109,143000
+3147,Einmalkunde NV,Fortune500,Retail,China,current customer,Medium,1 Year,Database,C-Level,No,Yes,Yes,Yes,41,583,180,159000
+3142,Krogertsens NV,Fortune500,Consumer Product,Japan,current customer,Huge,1 Year,ERP,C-Level,No,No,Yes,Yes,49,378,56,121000
+4801,06MegaStore NV,SMB,High tech,Italy,prospect,Big,1 Year,Identity Server,Individual Contributor Level,Yes,No,No,No,9,72,20,17000
+4802,Ernst Brinkmann KG NV,Fortune500,Goods,Japan,prior customer,Small,6 Months,Security,Manager Level,No,Yes,Yes,Yes,9,234,116,61000
+4803,Sunburst Inc NV,SMB,Retail,Brazil,prospect,Large,6 Months,Portal,Manager Level,No,No,Yes,No,18,110,68,48000
+4804,Second Source NV,Fortune500,Goods,North America,prior customer,Big,1 Month,Web Server,C-Level,Yes,Yes,Yes,Yes,27,81,126,76000
+4805,Timco Corporation NV,SMB,Finserv,China,prospect,Small,18 Months,Identity Server,Individual Contributor Level,No,No,Yes,Yes,22,70,120,35000
+4806,JANE SANCHEZ NV,SMB,Finserv,China,prospect,Large,1 Month,Analytics,Individual Contributor Level,Yes,No,Yes,No,26,105,150,50000
+4807,ALAN GUETTEL NV,Fortune500,Construction,India,current customer,Medium,1 Year,Identity Server,C-Level,No,Yes,Yes,Yes,46,561,92,111000
+4808,Emma Bull ENT,SMB,High tech,Japan,prior customer,Large,1 Month,Application Server,Individual Contributor Level,Yes,Yes,Yes,Yes,7,66,40,15000
+4809,Albert Brooks ENT,Enterprise,Apparel,Germany,prior customer,Large,1 Year,Identity Server,C-Level,No,Yes,Yes,No,25,281,89,56000
+4810,Institut fuer Umweltforschung ENT,SMB,Manufacturing,North America,prior customer,Big,1 Month,Web Server,Individual Contributor Level,Yes,Yes,Yes,Yes,20,76,5,43000
+4811,Christal Clear ENT,SMB,Construction,China,prospect,Medium,6 Months,Database,Manager Level,No,No,No,Yes,16,142,68,42000
+4812,General Distributors Inc. ENT,Fortune500,Consumer Product,China,current customer,Big,1 Year,Analytics,C-Level,Yes,No,Yes,No,19,479,188,172000
+4813,SAPSOTA AG ENT,Fortune500,Apparel,Italy,prior customer,Small,6 Months,Security,Manager Level,No,No,Yes,No,19,52,130,67000
+4814,Bit Market ENT,Enterprise,Healthcare,Brazil,prior customer,Large,1 Year,ERP,C-Level,No,Yes,Yes,No,19,265,22,75000
+4815,Live Insurance Inc. ENT,SMB,Retail,UK,prospect,Big,1 Month,Portal,Manager Level,No,Yes,No,Yes,22,22,65,41000
+4816,Hotel Alfonso Del Vida ENT,SMB,Finserv,China,prior customer,Huge,2 Years,Identity Server,Manager Level,No,Yes,No,Yes,20,32,12,25000
+4817,Tornado Motorsports ENT,Fortune500,Retail,Russia,current customer,Huge,1 Year,Web Server,C-Level,Yes,Yes,No,No,48,515,136,160000
+4818,Compu Tech ENT,Fortune500,Healthcare,Japan,prior customer,Huge,6 Months,Identity Server,Manager Level,No,No,Yes,Yes,5,208,140,47000
+4819,Zuber AG ENT,Fortune500,High tech,China,current customer,Huge,1 Year,Security,C-Level,Yes,No,No,Yes,21,539,51,142000
+4820,Wal-Mart ENT,SMB,Finserv,Brazil,prospect,Huge,6 Months,Identity Server,Individual Contributor Level,Yes,Yes,Yes,Yes,17,49,37,16000
+4821,Cliente 2 ENT,SMB,Construction,France,current customer,Small,1 Year,CRM,C-Level,Yes,Yes,No,No,28,390,125,152000
+4822,Praxis Dr. M³ller ENT,Enterprise,Retail,UK,prior customer,Small,2 Years,Database,Individual Contributor Level,No,No,Yes,No,21,259,110,45000
+4823,Titan Manufacturing ENT,SMB,Goods,Germany,prospect,Medium,18 Months,Database,Individual Contributor Level,Yes,No,No,Yes,13,107,121,19000
+4824,Jim┤s Mart 1026 ENT,Enterprise,High tech,France,prior customer,Huge,1 Year,Identity Server,Manager Level,Yes,Yes,Yes,Yes,11,73,18,55000
+4825,Microwell ENT,SMB,High tech,India,prospect,Huge,6 Months,CRM,Manager Level,No,Yes,No,Yes,12,125,110,14000
+4826,MARIE ZDROK ENT,SMB,Retail,Germany,current customer,Huge,6 Months,Analytics,C-Level,No,No,Yes,No,28,124,59,12000
+4827,BILL FERRARA ENT,SMB,Construction,Italy,prior customer,Big,2 Years,Application Server,Individual Contributor Level,Yes,Yes,Yes,No,30,64,65,47000
+4828,Tandra ENT,SMB,Construction,India,prospect,Huge,6 Months,CRM,Manager Level,No,No,Yes,Yes,19,136,151,24000
+4829,Tracy Collins CRL,Enterprise,High tech,France,prior customer,Big,6 Months,Database,Manager Level,No,Yes,No,Yes,17,82,64,44000
+4830,Becker Berlin CRL,SMB,Apparel,Italy,prospect,Medium,2 Years,ERP,Manager Level,Yes,No,No,Yes,13,25,101,41000
+4831,Elektromarkt Bamby CRL,Fortune500,Consumer Product,Brazil,current customer,Medium,1 Year,CRM,C-Level,Yes,Yes,No,No,31,494,59,150000
+4832,PILAR am Neckar CRL,Fortune500,Consumer Product,North America,current customer,Huge,1 Year,Identity Server,C-Level,Yes,Yes,Yes,No,41,327,25,132000
+4833,Motor Sports CRL,Enterprise,Construction,China,prospect,Big,6 Months,Application Server,C-Level,No,Yes,No,No,29,50,59,64000
+4834,CompuMax GmbH CRL,Enterprise,Construction,UK,prior customer,Big,1 Month,Security,Individual Contributor Level,No,No,Yes,Yes,25,196,111,55000
+4835,Miller & Son Trading Ltd. CRL,Fortune500,Consumer Product,Brazil,current customer,Big,1 Year,Portal,C-Level,No,No,No,No,22,432,172,129000
+4836,Cross Worlds Consulting CRL,Fortune500,Finserv,Japan,current customer,Huge,1 Year,Portal,C-Level,Yes,No,No,Yes,32,441,28,138000
+4837,Tidemann Electronics CRL,Fortune500,High tech,Italy,current customer,Medium,1 Year,Web Server,C-Level,No,No,Yes,No,16,530,114,135000
+4838,Wallace Distribution CRL,Enterprise,Manufacturing,Brazil,prospect,Huge,1 Year,CRM,Manager Level,Yes,No,Yes,No,13,118,117,60000
+4839,Inustrias Pacificas S.A. CRL,Fortune500,High tech,Russia,current customer,Large,1 Year,Web Server,C-Level,No,Yes,No,Yes,36,195,64,166000
+4840,Global Technologies PLC CRL,Enterprise,Retail,Japan,prior customer,Huge,6 Months,Portal,C-Level,Yes,Yes,Yes,Yes,10,287,75,74000
+4841,Buying Unlimited CRL,SMB,Apparel,UK,prior customer,Large,1 Month,CRM,C-Level,Yes,No,No,No,31,76,103,26000
+4842,Cilox HiTech CRL,SMB,Consumer Product,Germany,current customer,Large,2 Years,Security,Individual Contributor Level,Yes,No,No,No,4,142,135,13000
+4843,Thornbury Enterprises CRL,Fortune500,Goods,Japan,current customer,Small,1 Year,Identity Server,C-Level,No,No,No,Yes,42,595,120,130000
+4844,Innovative Systems Inc. CRL,SMB,Apparel,France,current customer,Large,6 Months,Database,C-Level,No,No,Yes,Yes,19,289,128,41000
+4845,Townsend Company CRL,Enterprise,Construction,North America,current customer,Large,2 Years,CRM,C-Level,Yes,Yes,Yes,Yes,20,133,63,45000
+4846,Lou Windham CRL,Enterprise,Consumer Product,China,prior customer,Large,2 Years,Analytics,Manager Level,Yes,Yes,Yes,No,24,161,143,58000
+4847,JIM FARAIZL CRL,Enterprise,Consumer Product,France,prospect,Large,18 Months,Web Server,Individual Contributor Level,No,No,Yes,No,11,86,10,55000
+4848,Sandra 00Turner CRL,Enterprise,Manufacturing,China,prospect,Small,1 Year,Portal,C-Level,No,Yes,No,No,22,64,138,59000
+4849,Chelsa Quinn Yates SL,SMB,Manufacturing,North America,prospect,Small,18 Months,ERP,Individual Contributor Level,No,No,Yes,Yes,6,144,120,44000
+4850,Douglas Barker SL,Enterprise,Goods,Germany,prospect,Medium,18 Months,Portal,C-Level,No,No,No,Yes,12,223,74,55000
+4851,Phundix KG SL,SMB,Manufacturing,India,prior customer,Big,1 Month,ERP,Manager Level,No,No,No,No,7,151,114,50000
+4852,NSM Pumpentechnik AG SL,SMB,High tech,North America,prospect,Huge,1 Month,Identity Server,Individual Contributor Level,Yes,No,Yes,Yes,29,107,88,39000
+4853,Deutsche Computer AG SL,Fortune500,Manufacturing,Russia,prospect,Huge,1 Year,Web Server,Individual Contributor Level,No,No,Yes,No,25,79,112,31000
+4854,Software Systeme GmbH SL,SMB,Retail,Germany,prior customer,Large,18 Months,Identity Server,Manager Level,Yes,No,Yes,Yes,29,28,138,36000
+4855,Napoli Export SL,Fortune500,Manufacturing,Brazil,prospect,Medium,1 Month,Database,Individual Contributor Level,No,No,No,Yes,12,17,73,13000
+4856,Princeton Health Center SL,Enterprise,Consumer Product,Russia,current customer,Small,1 Year,ERP,Individual Contributor Level,Yes,No,Yes,No,2,50,140,14000
+4857,Park Lane Hotel And Spa SL,SMB,Manufacturing,Italy,prospect,Big,2 Years,Security,C-Level,No,No,No,Yes,23,131,75,35000
+3697,Candid International Technology SL,Enterprise,Manufacturing,Brazil,prior customer,Huge,6 Months,Application Server,Manager Level,Yes,Yes,Yes,Yes,6,65,80,69000
+4858,Hallmann Anlagenbau GmbH SL,SMB,Consumer Product,North America,prospect,Big,18 Months,ERP,Individual Contributor Level,Yes,No,Yes,No,9,37,154,20000
+4859,Schnelle Feuerwehr SL,SMB,Goods,France,prior customer,Medium,1 Month,Web Server,Individual Contributor Level,Yes,Yes,No,No,31,91,147,43000
+3747,Krogertsens SL,Enterprise,Finserv,UK,prospect,Big,6 Months,Analytics,C-Level,Yes,No,No,No,11,293,61,55000
+4860,01Megastore SL,Fortune500,Manufacturing,Japan,prospect,Huge,6 Months,Portal,Manager Level,No,Yes,No,Yes,20,43,22,12000
+4861,REMA WH Regensburg SL,Fortune500,Manufacturing,Japan,prospect,Huge,1 Month,Web Server,C-Level,Yes,No,No,No,12,107,148,49000
+4862,Brighton Inc SL,SMB,Construction,India,prospect,Medium,18 Months,Identity Server,Manager Level,Yes,No,Yes,No,26,110,106,22000
+4863,Data Corp. SL,Fortune500,Retail,France,current customer,Small,1 Year,Analytics,C-Level,Yes,No,No,No,42,299,96,134000
+4864,Greentree Enterprise SL,Enterprise,Manufacturing,Japan,prospect,Huge,1 Month,Web Server,C-Level,No,No,No,No,23,112,118,51000
+4865,JANE CASTILLO SL,Fortune500,Apparel,UK,current customer,Medium,1 Year,CRM,C-Level,Yes,No,Yes,Yes,35,348,60,169000
+4866,JOHN GRÍNROS SL,Enterprise,Healthcare,China,prior customer,Big,6 Months,Database,C-Level,Yes,No,No,No,6,51,71,69000
+4867,Nelson Tax & Associates AB,Enterprise,Apparel,Italy,current customer,Small,2 Years,Analytics,C-Level,No,No,Yes,No,17,91,99,43000
+4868,Agnes Varda AB,SMB,Consumer Product,North America,prospect,Large,2 Years,Database,C-Level,No,No,No,Yes,7,127,110,30000
+4869,Autohaus Franzl GmbH AB,Fortune500,High tech,Russia,prior customer,Huge,18 Months,CRM,C-Level,No,Yes,No,Yes,18,147,103,44000
+4870,LCH Markt AB,Enterprise,Retail,China,prior customer,Small,2 Years,Security,Manager Level,Yes,No,No,Yes,15,51,100,36000
+4871,General Distributors GmbH AB,Fortune500,High tech,Russia,current customer,Large,1 Year,Security,C-Level,No,Yes,Yes,No,32,317,147,153000
+4872,Carbor GmbH AB,Fortune500,Construction,Italy,current customer,Large,1 Year,Application Server,C-Level,Yes,No,Yes,No,40,588,144,183000
+4873,S.C.T. Electro AB,SMB,Retail,UK,prospect,Large,1 Month,Security,Individual Contributor Level,No,Yes,Yes,Yes,25,18,27,39000
+4874,Industrial Supplies Inc. AB,Fortune500,Retail,India,current customer,Big,1 Year,Analytics,C-Level,Yes,No,Yes,Yes,48,408,155,153000
+4875,Palo Alto Airways Inc. AB,Fortune500,Retail,UK,current customer,Large,1 Year,Portal,C-Level,No,No,No,Yes,22,430,92,163000
+4876,Hotshot Racing AB,SMB,Goods,Germany,prospect,Medium,1 Month,Portal,Manager Level,Yes,Yes,Yes,Yes,6,71,61,21000
+4877,Company World Incorporated AB,Fortune500,Construction,Russia,prior customer,Large,6 Months,Database,C-Level,No,No,Yes,Yes,25,236,118,47000
+4878,John Taylor AB,Fortune500,Retail,Russia,current customer,Medium,1 Year,Web Server,C-Level,No,Yes,Yes,Yes,43,353,59,123000
+4879,IDES US Inc. AB,Fortune500,Apparel,India,current customer,Huge,1 Year,Application Server,C-Level,No,No,No,Yes,37,278,110,146000
+4880,Muster Kunde AB,Fortune500,Finserv,France,prior customer,Medium,6 Months,CRM,Individual Contributor Level,No,Yes,Yes,No,10,82,89,21000
+4881,Antipolis AB,SMB,Goods,UK,prospect,Medium,1 Month,Database,C-Level,Yes,No,Yes,No,25,127,93,37000
+4882,Web Design Studio AB,SMB,Finserv,Germany,prior customer,Small,6 Months,Application Server,Manager Level,No,No,Yes,Yes,4,40,19,40000
+4883,Rema Store 1010 AB,Fortune500,Finserv,Russia,current customer,Big,1 Year,CRM,C-Level,Yes,Yes,No,Yes,49,233,40,130000
+4884,EC Enterprises AB,SMB,Construction,Japan,prospect,Huge,2 Years,Database,Individual Contributor Level,No,Yes,Yes,No,4,100,20,25000
+4885,MARIE WITENBURG AB,Enterprise,Construction,Japan,prospect,Huge,6 Months,Analytics,Manager Level,Yes,Yes,Yes,Yes,14,207,134,36000
+4886,BILL FERNANCE AB,Enterprise,Manufacturing,France,prior customer,Medium,1 Year,CRM,C-Level,Yes,Yes,No,Yes,7,220,55,67000
+4887,Scott Parker AB,SMB,Consumer Product,Germany,prior customer,Huge,6 Months,ERP,Manager Level,Yes,Yes,Yes,Yes,5,133,127,41000
+4888,Joe Masson Corp,SMB,Construction,UK,prior customer,Small,18 Months,ERP,C-Level,No,No,No,No,19,112,83,47000
+4889,Ronald Bey Corp,Fortune500,Construction,UK,current customer,Medium,1 Year,Analytics,C-Level,Yes,No,No,Yes,19,287,181,186000
+4890,Motomarkt Stuttgart GmbH Corp,Enterprise,Construction,Russia,prior customer,Huge,1 Month,Database,Manager Level,Yes,Yes,No,No,13,147,57,66000
+4891,A.I.T. GmbH Corp,Enterprise,Retail,UK,prospect,Large,6 Months,CRM,Manager Level,Yes,No,Yes,No,8,73,103,57000
+4892,J & P Corp,Enterprise,Manufacturing,Germany,prior customer,Huge,1 Month,Portal,Manager Level,No,Yes,Yes,No,19,234,134,48000
+4893,Jaspers Computers Corp,SMB,Goods,Russia,prospect,Big,6 Months,Web Server,Manager Level,Yes,No,Yes,Yes,8,69,136,24000
+4894,Bernardin SA Corp,SMB,Finserv,Italy,prospect,Medium,2 Years,CRM,Individual Contributor Level,No,Yes,Yes,No,31,108,52,34000
+4895,Mafor Software Service Corp. Corp,Fortune500,Retail,UK,current customer,Huge,1 Year,CRM,C-Level,Yes,No,No,No,36,569,64,192000
+4896,ALPHA Center Corp,SMB,Apparel,India,prospect,Small,18 Months,Security,C-Level,No,No,Yes,Yes,29,75,106,32000
+4897,North Energy Ltd Corp,Enterprise,Finserv,India,current customer,Huge,6 Months,Web Server,C-Level,Yes,No,Yes,Yes,12,159,145,36000
+4898,RIWA Regional Warehouse Denver Corp,Fortune500,High tech,Japan,current customer,Small,1 Year,CRM,C-Level,Yes,No,No,Yes,27,478,109,171000
+4899,Global Industries PLC Corp,Enterprise,Healthcare,Italy,prior customer,Big,1 Year,CRM,Manager Level,Yes,No,No,No,23,198,29,49000
+4900,Software Warehouse Corp,Fortune500,Manufacturing,North America,current customer,Big,1 Year,Database,C-Level,No,No,No,No,17,354,68,134000
+4901,Havers Inc Corp,Fortune500,Finserv,Russia,current customer,Large,1 Year,Database,C-Level,Yes,No,Yes,Yes,15,258,110,143000
+4902,Clinton Industries Corp,SMB,High tech,North America,current customer,Medium,1 Year,Portal,Individual Contributor Level,Yes,No,Yes,Yes,10,67,72,17000
+4903,JMart Corp,Fortune500,High tech,Italy,current customer,Small,1 Year,Application Server,C-Level,No,Yes,Yes,Yes,32,376,26,165000
+4904,World PC Inc. Corp,Enterprise,High tech,North America,prior customer,Medium,1 Year,CRM,C-Level,Yes,Yes,Yes,No,14,253,44,64000
+4905,Landstar Corp Corp,Enterprise,Consumer Product,France,prior customer,Large,1 Year,Web Server,Manager Level,No,Yes,Yes,No,11,205,24,56000
+4906,ALAN FAITH Corp,Enterprise,Apparel,North America,prior customer,Medium,1 Year,Database,Manager Level,No,Yes,Yes,Yes,13,297,27,39000
+4907,ALAN GWARA Corp,Enterprise,Goods,Japan,prior customer,Huge,1 Year,Portal,Manager Level,Yes,No,Yes,No,17,57,34,59000
+4908,Roger Zahn Co,SMB,Goods,Brazil,current customer,Big,1 Year,CRM,C-Level,No,No,Yes,No,19,334,69,147000
+4909,Peter King Co,SMB,Construction,Russia,prospect,Small,6 Months,Application Server,Individual Contributor Level,Yes,No,No,No,22,42,104,40000
+4910,ERL Freiburg Co,SMB,Goods,Brazil,prospect,Big,1 Month,Application Server,Individual Contributor Level,Yes,No,Yes,No,24,126,93,21000
+4911,Becker Stuttgart Co,SMB,Retail,Brazil,prospect,Large,1 Month,Database,C-Level,Yes,Yes,No,No,10,127,21,27000
+4912,Aircraft Products Co,Enterprise,Goods,China,prior customer,Big,1 Month,Web Server,C-Level,Yes,No,No,Yes,18,89,143,58000
+4913,Etelko Textilien Co,SMB,Manufacturing,Russia,prospect,Large,6 Months,Portal,Manager Level,Yes,No,Yes,Yes,30,51,127,24000
+4914,Motomarkt Heidelberg GmbH Co,Enterprise,Apparel,Japan,prior customer,Medium,6 Months,Database,Individual Contributor Level,Yes,No,No,No,26,77,13,69000
+4915,Insurance Company Co,SMB,Construction,Brazil,prospect,Medium,1 Month,Security,C-Level,Yes,No,Yes,Yes,3,96,47,11000
+4916,Rogier Golf Resort YY Co,Enterprise,Goods,Italy,prior customer,Big,1 Month,Database,C-Level,No,Yes,No,No,8,247,10,72000
+4917,LES Sales Company Co,SMB,Manufacturing,Japan,prospect,Huge,1 Year,Security,Individual Contributor Level,Yes,Yes,No,No,19,148,38,34000
+4918,Karl Smith Co,SMB,Consumer Product,France,prior customer,Big,2 Years,Web Server,C-Level,Yes,Yes,Yes,No,18,120,18,45000
+4919,Walther Maschinenbau GmbH Co,Fortune500,Retail,Russia,prospect,Medium,18 Months,Portal,Individual Contributor Level,Yes,No,Yes,No,3,35,117,45000
+4920,Super-Mart Co,SMB,Consumer Product,North America,current customer,Big,6 Months,Application Server,C-Level,Yes,Yes,Yes,Yes,17,120,136,73000
+4921,REMA Superstore Co,SMB,Retail,Japan,prospect,Big,6 Months,Application Server,C-Level,No,No,Yes,Yes,5,80,36,20000
+4922,Praxis Dr. Rot Co,Fortune500,Finserv,Japan,current customer,Huge,1 Year,Application Server,C-Level,No,No,Yes,No,45,243,158,155000
+4923,Milton & Milton Co,Enterprise,Healthcare,Japan,prospect,Medium,6 Months,Portal,Manager Level,No,Yes,Yes,No,16,125,117,43000
+4924,vNet Co,Enterprise,Apparel,UK,prior customer,Large,1 Year,Portal,Individual Contributor Level,Yes,Yes,No,No,11,292,43,68000
+4925,Abidon Corp Co,SMB,High tech,Italy,prospect,Large,1 Month,Security,Individual Contributor Level,Yes,No,Yes,No,28,84,52,15000
+4926,JANET ZUSSIN Co,Fortune500,High tech,Italy,current customer,Big,1 Year,Security,C-Level,No,Yes,No,Yes,28,391,42,129000
+4927,JAMES GRUPER Co,Enterprise,Finserv,China,current customer,Huge,1 Year,Analytics,Individual Contributor Level,No,No,No,No,27,56,32,25000
+4928,Kim Possible Inc. - East Co,SMB,Manufacturing,France,current customer,Large,6 Months,Web Server,Individual Contributor Level,Yes,No,Yes,No,18,86,23,40000
+4929,Steve Martin KG,Enterprise,High tech,India,prospect,Large,1 Year,Web Server,Individual Contributor Level,No,No,Yes,Yes,7,276,63,41000
+4930,Omega Soft-Hardware Markt KG,SMB,Finserv,Germany,prospect,Medium,1 Month,Database,C-Level,No,Yes,Yes,Yes,13,77,84,46000
+4931,Minerva Energieversorgung GmbH KG,Enterprise,Construction,North America,prior customer,Large,1 Month,Database,Manager Level,Yes,Yes,No,No,5,202,6,50000
+4932,General Distributors Inc KG,Enterprise,Construction,North America,prospect,Small,6 Months,Application Server,Individual Contributor Level,No,No,No,No,9,108,102,42000
+4933,Mansur Computers. Inc. KG,Fortune500,Manufacturing,India,current customer,Huge,1 Year,Database,C-Level,No,Yes,No,No,46,341,98,130000
+4934,Alpha-Systems GmbH KG,SMB,High tech,India,current customer,Small,6 Months,ERP,Individual Contributor Level,No,Yes,Yes,No,10,26,150,29000
